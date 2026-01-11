@@ -1,1 +1,1 @@
-# Spice Ranch Ordering System (One Done At Home
+# Spice Ranch Ordering System 
