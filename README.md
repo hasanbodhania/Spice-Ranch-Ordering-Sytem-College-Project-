@@ -99,3 +99,8 @@
     <li>Proceed to checkout</li>
     <li>View order confirmation</li>
 </ol>
+
+<h2>Author</h2>
+<p><strong>Hasan Bodhania</strong><br>
+Email: hasanbodhania@gmail.com<br>
+Phone: 07878 253584</p>
