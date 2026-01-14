@@ -1,5 +1,4 @@
-
-    <h1>🥘 Spice Ranch Ordering System</h1>
+ <h1>🥘 Spice Ranch Ordering System</h1>
 
     <p>A desktop ordering application developed as a <strong>college project</strong> to replace a traditional paper-based ordering system with a digital solution. The system simulates a real fast-food ordering workflow, from login through to order confirmation.</p>
 
